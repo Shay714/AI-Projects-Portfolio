@@ -7,5 +7,5 @@ Built by Sharon Lawrence | Founder, Cyber Socialites LLC
 - 💬 AI-Bots — Conversational AI chatbots
 - 🌐 Websites — Custom web builds
 - 🎵 AI-Music — AI-generated music projects
-- ✨ AI Education - Lessons and Course
+- ✨ AI Education - Lessons and Courses
 
