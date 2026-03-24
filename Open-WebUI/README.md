@@ -10,7 +10,7 @@ I built a fully functional local AI environment using Open WebUI and Ollama, all
 - Secure, private, offline usage
 
 #### 📸 Demo:
-(Add your screenshots here)
+
 ## 📸 Demo
 
 ### 🔧 Setup (PowerShell)
