@@ -1,4 +1,3 @@
-Readme
 ### 🔐 Private AI System — Open WebUI + Ollama
 
 I built a fully functional local AI environment using Open WebUI and Ollama, allowing AI to run completely offline with no external API dependencies.
