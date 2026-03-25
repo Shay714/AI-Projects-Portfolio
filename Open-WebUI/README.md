@@ -13,16 +13,16 @@ I built a fully functional local AI environment using Open WebUI and Ollama, all
 ## 📸 Demo
 
 ### 🔧 Setup (PowerShell)
-![Setup](./Screenshots/powershell-setup.png)
+![Setup](../Screenshots/powershell-setup.png)
 
 ### 🌐 Open WebUI Running
-![WebUI](./Screenshots/local-llm-response.png)
+![WebUI](../Screenshots/local-llm-response.png)
 
 ### 🤖 Model in Action
-![Model](./Screenshots/openwebui-dashboard.png)
+![Model](../Screenshots/openwebui-dashboard.png)
 
 ### 🔐 Login Screen
-![Login](./Screenshots/login-screen.png)
+![Login](../Screenshots/login-screen.png)
 
 
 
